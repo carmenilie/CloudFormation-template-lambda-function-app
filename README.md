@@ -148,7 +148,7 @@ Output obtained:
 
 Through further reading, I managed to find out that a StatusCode equal to 200 means the request was successful, even though the function returned an error. Undoubtedly, the error must be caused by the fact that I never provided either of my functions with the necessary arguments. The next improvement I must bring to the project is to find the correct syntax I can use to pass the functions their corresponding arguments.
 
-** Bibliography
+## Bibliography
 
 https://leaherb.com/aws-lambda-tutorial-101/
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html
